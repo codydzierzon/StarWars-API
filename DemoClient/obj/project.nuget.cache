@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UehIHPMHQ2idU19hp+JPqry6OhwiyzdXyGJiSWW9yd1HXJk+rSfQJMBom7xHpjDHtcGf9zvEUF2lAl0W03ZYxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cody\\repos\\cody\\Sprint_03\\09_ApiClient\\Demo\\DemoClient\\DemoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cody\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\DemoClient.exe
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\DemoClient.deps.json
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\DemoClient.runtimeconfig.json
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\DemoClient.dll
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\DemoClient.pdb
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.csproj.AssemblyReference.cache
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.AssemblyInfoInputs.cache
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.AssemblyInfo.cs
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.csproj.CoreCompileInputs.cache
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.dll
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\refint\DemoClient.dll
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.pdb
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.genruntimeconfig.cache
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\ref\DemoClient.dll
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\bin\Debug\net6.0\RestSharp.dll
+C:\Users\cody\repos\cody\Sprint_03\09_ApiClient\Demo\DemoClient\obj\Debug\net6.0\DemoClient.csproj.CopyComplete
